@@ -1,12 +1,22 @@
 <h1 align="center">
   WEB프로젝트 (제시요)
 </h1>
-<p align="center">중고 거래 경매 사이트</p>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/19080314-fcf1-4447-91b2-b7d443ecb456" width="800">
+</div>
+
+## 개요 : 중고 거래 경매 사이트
+<br>
+
 <p align="center">
   불특정 다수의 입찰자들이 가격 경쟁을 통해 중고 물품을 쟁취할 수 있는 웹사이트 <br>
   실시간 경매를 통해 구입 및 판매 가능 <br>
   경매를 통한 구매 욕구 자극, 사용자의 높은 스릴감과 만족도 제공
 </p>
+
+<br>
 
 ---
 
@@ -27,7 +37,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 
 
-### 팀원
+## 팀원
 - 박무현(팀장) [![박무현](https://img.shields.io/badge/GitHub-박무현-orange)](https://github.com/MooHyunPark)
 - 송승현 [![송승현](https://img.shields.io/badge/GitHub-송승현-blue)](https://github.com/seunghyeon22)
 - 조세은 [![조세은](https://img.shields.io/badge/GitHub-조세은-red)](https://github.com/SeeunJoe)
@@ -35,27 +45,78 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 - 이나겸 [![이나겸](https://img.shields.io/badge/GitHub-이나겸-yellow)](https://github.com/NakyeomLee)
 <br>
 
-### 프로젝트 기간
-- 2024년 12월 2일 ~ 2024년 12월 18일 (16일간)
+
+
+
+
+## 통합 구현 기능
+
 <br>
 
-### 사이트 설명
-상세 검색 및 필터링, 각종 편의 서비스 <br>
-더 안전한 거래 환경을 제공
-<br><br>
-
-
-
-## 구현 기능
 ### 유저 관련 기능
-- 로그인
-### 경매 입찰 / 낙찰 관련 기능
-- 입찰
+- 로그인, 회원가입, 아이디 비밀번호 찾기, 내 정보 수정, 입금과 출금(약식)
+### 경매 관련 기능
+- 입찰, 재입찰, 취소, 물품 등록
 ### 신고 기능
 - 판매자 / 구매자 신고
 ### 관리자 
-- 신고 관리
+- 카테고리 관리, 거래 관련 내역 확인, 신고 내용 처리
 <br>
+
+<br>
+
+## 내가 구현한 내용
+- 프로젝트 설정과 세팅, 공유
+- 컨벤션 작성 및 공유
+- 관리자 기능 전체 구현
+- 페이징 기능 전체 구현 (물품 목록 페이지의 더보기 기능 X)
+- 팀원들이 작성한 내용 디버깅 및 수정
+  
+  
+<br>
+<br>
+
+## 보완할 점
+
+<br>
+
+## 트러블슈팅
+
+<br>
+
+## 느낀점
+
+<br>
+<br>
+
+
+## 프로젝트 업무 관리
+<br>
+
+- 업무 진행 과정은 업무 보드를 통해 관리하고 확인
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcc350f9-dd29-4561-8896-636f8a71fec4" width="800">
+</div>
+
+<br><br><br>
+
+- 진행 중 어려웠던 부분은 한곳에 모아서 서로 공유할 수 있도록 관리
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f842822b-27c8-4d01-8edc-c0da6d2e37b9" width="800">
+</div>
+
+
+
+## 프로젝트 기간
+<br>
+
+- 2024년 12월 2일 ~ 2024년 12월 18일 (16일간)
+
+<br>
+<br>
+
 
 ## 기술 스택
 ### Backend
@@ -98,9 +159,7 @@ implementation 'net.minidev:json-smart:2.4.1'
 ```
 <br>
 
-## 화면 구성
-화면 다 완성되면 캡쳐해서 추가
-<br><br>
+
 
 ## ERD
 <div align="center">
@@ -108,11 +167,5 @@ implementation 'net.minidev:json-smart:2.4.1'
 </div>
 <br>
 
-## 보완할 점
-<br>
 
-## 트러블슈팅
-<br>
-
-## 느낀점
 
