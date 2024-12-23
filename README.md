@@ -104,7 +104,9 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 3. 1번의 경우 json 응답 또는 평문을 날려야만 정상적으로 작동하기 때문에 예외 발생 시 화면에 아무것도 나오지 않았습니다.
 4. 해당 내용의 원인을 모두 찾아 분석하고 수정 후 팀원들에게 해당 내용을 공유하였습니다.
 
+<br><br>
 
+![Screenshot_4](https://github.com/user-attachments/assets/40942f82-b80b-414e-9d26-088731c357ec)
 
 <br><br><br>
 위의 문제가 발생한 이유 : 예외 관련된 테스트가 제대로 진행되지 않았습니다.
@@ -114,7 +116,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 프로젝트 종료 이후 생각 : 문제에 대한 내용 공유 뿐만 아니라, 테스트를 더 철저하게 할 수 있도록 지시할 필요성이 있었지만 그렇게 하지 않고 내용만 공유했던 부분이 조금 아쉽게 느껴졌었습니다. 모두가 각자 직접 해결하였으면 모두에게 좀 더 도움이 되었을 것 같아 이런 부분들을 더 신경써서 프로젝트를 진행할 수 있도록 주의가 필요하다고 생각하였습니다.
 
 <br><br>
-![Screenshot_4](https://github.com/user-attachments/assets/40942f82-b80b-414e-9d26-088731c357ec)
+
 
 <br>
 <br>
