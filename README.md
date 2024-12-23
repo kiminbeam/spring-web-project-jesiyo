@@ -131,6 +131,8 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
    단순한 로직을 구현하더라도 Controller, Service, Repository 등 각 역할에 맞게 구현하고, 반환할 때 DTO를 반드시 반환하게 하는 등 <br>
    이런 규칙들은 기존에 몸에 배지 않은 사람에게는 불편할 수 있습니다.<br>
    저도 그런 사람들 중 하나였지만, 이번에 제대로 컨벤션을 지켜서 개발을 진행해보니 가독성도 좋아지고 특히 문제가 발생했을 때 디버깅을 하는 과정이 엄청 빨라진 것을 느낄 수 있었습니다.
+<br><br>
+
 
 3. 소통이 중요하다 : <br>
    프로젝트에 대한 잦은 커뮤니케이션은 결과적으로 프로젝트 진행 속도에 많은 영향을 끼쳤습니다.<br>
@@ -163,7 +165,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f842822b-27c8-4d01-8edc-c0da6d2e37b9" width="800">
 </div>
-
+<br><br>
 
 
 ## 프로젝트 기간
@@ -173,6 +175,13 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 <br>
 <br>
+
+## ERD
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/656f46cb-c897-4376-9022-ac4ab7292d2f" width="800">
+</div>
+<br>
+<br><br><br><br>
 
 
 ## 기술 스택
@@ -196,6 +205,11 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 ### 데이터베이스
 <img src="https://img.shields.io/badge/H2DB-31A8FF?style=for-the-badge&logo=H2DB&logoColor=white">
+<br><br>
+
+
+
+
 
 ### Dependencies
 ```
@@ -214,15 +228,10 @@ testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 implementation group: 'com.google.code.gson', name: 'gson', version: '2.11.0'
 implementation 'net.minidev:json-smart:2.4.1'
 ```
-<br>
+<br><br>
 
 
 
-## ERD
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/656f46cb-c897-4376-9022-ac4ab7292d2f" width="800">
-</div>
-<br>
-<br><br><br><br>
+
 
 
