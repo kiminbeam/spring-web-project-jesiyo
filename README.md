@@ -35,7 +35,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 <br><br>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFeC4igBcF8?si=U6xVLrMZYmOx9PpL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 팀원
 - 박무현(팀장) [![박무현](https://img.shields.io/badge/GitHub-박무현-orange)](https://github.com/MooHyunPark)
@@ -79,6 +79,18 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 ## 보완할 점
 
 <br>
+시간 부족으로 skip 한 내용 :
+<br>
+- 장시간 판매자 및 구매자가 아무런 행동을 취하지 않을 때 > 강제 경매 취소 기능을 통해 경매 취소 해야하나 미구현
+- 입금 출금을 약식으로 진행
+
+<br>
+<br>
+컨벤션을 만들었으나 제대로 공유되지 않은 내용 :
+<br>
+- Http 1.0 방식으로 작성하기로 했으나(get, post만 사용) put, delete 등의 다른 http 메서드를 사용한 부분
+- 인증이 필요한 경로에 /s를 붙이지 않은 내용. (추후 일일이 제가 다시 변경하게되어 불필요하게 시간이 낭비됨)
+<br><br>
 
 ## 트러블슈팅
 
@@ -89,6 +101,9 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 <br>
 <br>
 
+## 기타
+
+---
 
 ## 프로젝트 업무 관리
 <br>
@@ -166,6 +181,6 @@ implementation 'net.minidev:json-smart:2.4.1'
   <img src="https://github.com/user-attachments/assets/656f46cb-c897-4376-9022-ac4ab7292d2f" width="800">
 </div>
 <br>
-
+<br><br><br><br>
 
 
