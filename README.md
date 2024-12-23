@@ -51,7 +51,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 ## 통합 구현 기능
 
-<br>
+
 
 ### 유저 관련 기능
 - 로그인, 회원가입, 아이디 비밀번호 찾기, 내 정보 수정, 입금과 출금(약식)
@@ -92,7 +92,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 - Http 1.0 방식으로 작성하기로 했으나(get, post만 사용) put, delete 등의 다른 http 메서드를 사용한 부분
 - 인증이 필요한 경로에 /s를 붙이지 않은 내용. (추후 일일이 제가 다시 변경하게되어 불필요하게 시간이 낭비됨)
-<br><br>
+<br><br><br>
 
 ## 트러블슈팅
 <br><br>
@@ -121,9 +121,6 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 <br><br>
 
 
-<br>
-<br>
-
 ## 느낀점
 <br><br>
 
@@ -147,8 +144,6 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 <br>
 <br>
 
-<br>
-<br>
 
 ## 기타
 
