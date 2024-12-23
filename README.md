@@ -106,7 +106,10 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 <br><br>
 
-![Screenshot_4](https://github.com/user-attachments/assets/40942f82-b80b-414e-9d26-088731c357ec)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/40942f82-b80b-414e-9d26-088731c357ec" width="250">
+
+</div>
 
 <br><br><br>
 위의 문제가 발생한 이유 : 예외 관련된 테스트가 제대로 진행되지 않았습니다.
