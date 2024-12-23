@@ -35,7 +35,7 @@ https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4
 
 <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jFeC4igBcF8?si=U6xVLrMZYmOx9PpL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Label](https://github.com/user-attachments/assets/19080314-fcf1-4447-91b2-b7d443ecb456)](https://youtu.be/jFeC4igBcF8?si=TA8P59SjZSkA2FJ4)
 
 ## 팀원
 - 박무현(팀장) [![박무현](https://img.shields.io/badge/GitHub-박무현-orange)](https://github.com/MooHyunPark)
